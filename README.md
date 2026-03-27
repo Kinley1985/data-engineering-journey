@@ -10,8 +10,9 @@ I am aspiring Data Engineer from the Phulippines 🇵🇭
 - Data Analysis
 
   ##  Achievements
-- Associate Data Engineer – DataCamp (2026)  
-- Full Stack Data Analyst Certification (2025)   
+  ##  Certificates
+- [Associate Data Engineer (DataCamp)](https://github.com/Kinley1985/data-engineering-journey/raw/main/DEA0014163646216.pdf)
+- [Full Stack Data Analyst](PASTE_SECOND_LINK_HERE)
 Continuously improving my skills in data engineering and analytics.
 
 ## Goals
