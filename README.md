@@ -1,7 +1,7 @@
 # data-engineering-journey
 My journey to become a  Data Engineer
 Hi, Im Kinley Merenciano!
-I am aspiring Data Engineer from the Phulippines 🇵🇭
+I am aspiring Data Engineer from the Philippines 🇵🇭
 
 ## Skill's I'm Learning
 - SQL
